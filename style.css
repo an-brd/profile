@@ -33,7 +33,11 @@ body {
 
 .reference{
     border:1px solid blue;
-    
+    padding:1.5em;
+    margin:1em;
+    position:relative;
+    right:2em;
+
 }
 
 .referencetest{
